@@ -34,7 +34,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ## My Stats
 
-### Private account @daothaison
+### Private account @[daothaison](https://github.com/daothaison)
 
 <p align=center>
   <img src="https://visitor-badge.glitch.me/badge?page_id=daothaison/daothaison" />  
