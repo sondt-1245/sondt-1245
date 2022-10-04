@@ -26,11 +26,11 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?&logo=mongoDB&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-yellow?&logo=Redis&logoColor=DC382D)
-![Kibana](https://img.shields.io/badge/-Kibana-yellow?&logo=Kibana&logoColor=E6522C)
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-yellow?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-yellow?&logo=Vue.js)
 ![Nginx](https://img.shields.io/badge/-Nginx-yellow?&logo=Nginx&logoColor=269539)
+![Prometheus](https://img.shields.io/badge/-Prometheus-yellow?&logo=Prometheus&logoColor=2695e9)
 
 ## My Stats
 
